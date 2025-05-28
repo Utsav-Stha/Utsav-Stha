@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nancy</h1>
+<h1 align="center">Hi 👋, I'm Utsav</h1>
 <!-- <div align="center">
   <picture style="margin:0;">
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=I+am+an+emerging+versatile+developer.;I+am+actively+into+Fullstack+development.;I+love+mobile+devlopment too.;Game+development+is+my+passion.;I+am+also+an+AI+enthusiast.;I+am+an+eager+ready-to-learn+tech+enthusiast.;">
@@ -10,12 +10,7 @@
 
  <!-- - 🔭 I’m currently working on [CareerArk: A career counselling website](https://github.com/NancyAanchal/CareerArk) -->
   
-  - 👨‍💻 All of my projects are available at [https://nancyaanchal.github.io/My-Portfolio/](https://nancyaanchal.github.io/My-Portfolio/)
   
-  - 📫 Reach me through **nancyjha2006@gmail.com**
-  
-
-
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -31,17 +26,17 @@
 
 <h2 align="center">Github Stats:</h2>
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nancyaanchal&theme=transparent&hide_border=false&show_icons=true&locale=en" alt="nancyaanchal" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nancyaanchal&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact" alt="nancyaanchal" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Utsav-Stha&theme=transparent&hide_border=false&show_icons=true&locale=en" alt="Utsav-Stha" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Utsav-Stha&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Utsav-Stha" /></p>
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nancyaanchal&theme=transparent&hide_border=true" alt="streak graph"  /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Utsav-Stha&theme=transparent&hide_border=true" alt="streak graph"  /></p>
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nancyaanchal&theme=transparent&hide_border=false&show_icons=true&locale=en&layout=compact" width="45%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nancyaanchal&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact" width="94%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Utsav-Stha&theme=transparent&hide_border=false&show_icons=true&locale=en&layout=compact" width="45%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utsav-Stha&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact" width="94%"/>
 <div align="center">
 
 <h2 align="center">Github Trophies:</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nancyaanchal&theme=transparent&hide_border=true" alt="nancyaanchal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Utsav-Stha&theme=transparent&hide_border=true" alt="Utsav-Stha" /></a> </p>
 <!-- ![snake gif](https://github.com/nancyaanchal/nancyaanchal/blob/output/github-contribution-grid-snake.svg) -->
 
 
